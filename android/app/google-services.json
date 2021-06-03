@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "588825870032",
+    "firebase_url": "https://fether-chat-8828d-default-rtdb.firebaseio.com",
+    "project_id": "fether-chat-8828d",
+    "storage_bucket": "fether-chat-8828d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588825870032:android:a32f6ecc560c5449cc28d5",
+        "android_client_info": {
+          "package_name": "com.example.colon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588825870032-rbinq907d2qu3hpog71e3c4nhv97qdqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHINWJ4FPJA_nA_uczCU70qUSPexA1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588825870032-rbinq907d2qu3hpog71e3c4nhv97qdqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588825870032:android:53ca866041285c72cc28d5",
+        "android_client_info": {
+          "package_name": "com.example.feather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588825870032-rbinq907d2qu3hpog71e3c4nhv97qdqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHINWJ4FPJA_nA_uczCU70qUSPexA1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588825870032-rbinq907d2qu3hpog71e3c4nhv97qdqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588825870032:android:310735664bca7d1ccc28d5",
+        "android_client_info": {
+          "package_name": "com.featherapp.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588825870032-bi2k19d34q2r8n44217hcape4c7eeuvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.featherapp.chat",
+            "certificate_hash": "576a0b2e5d01bae19c577412dd474c67cc2b441f"
+          }
+        },
+        {
+          "client_id": "588825870032-rbinq907d2qu3hpog71e3c4nhv97qdqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHINWJ4FPJA_nA_uczCU70qUSPexA1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588825870032-rbinq907d2qu3hpog71e3c4nhv97qdqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
